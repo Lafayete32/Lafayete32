@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">front end developer</p>
+<p align="left"> 💻 front end developer</p>
 
 ###
 
