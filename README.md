@@ -32,7 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lafayete32/Lafayete32/output/snake.svg" alt="Snake animation" />
 
 ###
 
